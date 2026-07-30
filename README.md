@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm AYOUB LABADI
 
 ### 🎓 3rd Year Computer Science Student | 💡 Idea-Driven Developer
 
@@ -43,7 +43,4 @@ class StudentDeveloper:
 □ Get an internship
 □ Master [ABig Data Engineering ]
 
-📊 GitHub Stats
-<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Labadi05&show_icons=true&theme=dark&hide_border=true" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Labadi05&layout=compact&theme=dark&hide_border=true" /> </div>
-https://github-readme-streak-stats.herokuapp.com/?user=Labadi05&theme=dark&hide_border=true
 
