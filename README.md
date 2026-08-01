@@ -41,6 +41,6 @@ class StudentDeveloper:
 □ Learn full-stack development
 □ Contribute to open source
 □ Get an internship
-□ Master [ABig Data Engineering ]
+□ Master [Ai and Big Data Engineering ]
 
 
