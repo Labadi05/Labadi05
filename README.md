@@ -11,22 +11,9 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class StudentDeveloper:
-    def __init__(self):
-        self.major = "Computer Science"
-        self.year = "3rd Year"
-        self.mindset = "Build first, learn along the way"
-        self.motto = "If I have an idea, I build it"
-        self.projects = "Personal + University + Random ideas"
-        self.interests = ["Web Development", "Software Engineering", "Problem Solving"]
-
-
 🎯 I build projects based on whatever idea pops into my head
 
 🔥 I learn best by doing — every project teaches me something new
-
-📚 Still have 2 more years to explore and master more technologies
 
 💭 Currently thinking about: [Make sports easy for everyone ]
 
@@ -37,10 +24,9 @@ class StudentDeveloper:
 📌 Check my repositories for more random builds!
 
 🎯 My Goals
-□ Build 10 effectives projects this year
+
 □ Learn full-stack development
 □ Contribute to open source
-□ Get an internship
 □ Master [Ai and Big Data Engineering ]
 
 
