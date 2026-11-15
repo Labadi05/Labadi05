@@ -23,10 +23,12 @@
 "I build what I need or what I find interesting"
 📌 Check my repositories for more random builds!
 
-🎯 My Goals
+---
 
-□ Learn full-stack development
-□ Contribute to open source
-□ Master [Ai and Big Data Engineering ]
+## 🎯 My Goals
+
+ Learn full-stack development
+ Contribute to open source
+ Master [Ai and Big Data Engineering ]
 
 
