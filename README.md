@@ -19,8 +19,8 @@
 
 ⚡ Fun fact: I started coding because I wanted to build things, not just use them
 
-🚀 My Projects
-"I build what I need or what I find interesting"
+🚀 I build what I need or what I find interesting
+
 📌 Check my repositories for more random builds!
 
 ---
