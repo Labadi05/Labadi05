@@ -25,10 +25,4 @@
 
 ---
 
-## 🎯 My Goals
-
- Learn full-stack development, 
- Contribute to open source, 
- Master [Ai and Big Data Engineering ], 
-
 
